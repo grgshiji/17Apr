@@ -1,0 +1,20 @@
+{
+  "blockId": "JZ5_I1H5HpMQieXJDY-60",
+  "name": "B2_17Apr",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/17Apr.git",
+    "ssh": "git@github.com:grgshiji/17Apr.git",
+    "branch": "block_B2_17Apr"
+  },
+  "parentBlockIDs": [
+    "qIaTfRJ50vSD2Z4g1B7rr"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}

@@ -16,6 +16,9 @@
   "dependencies": {
     "B1_17Apr": {
       "directory": "B1_17Apr"
+    },
+    "B2_17Apr": {
+      "directory": "B2_17Apr"
     }
   }
 }
